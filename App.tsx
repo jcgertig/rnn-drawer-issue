@@ -110,7 +110,6 @@ const App = () => {
             zIndex: 1000,
           },
           drawerPosition: 'right',
-          drawerType: 'front',
         }}>
         <Drawer.Screen key="test" name="test" component={Content} />
       </Drawer.Navigator>
